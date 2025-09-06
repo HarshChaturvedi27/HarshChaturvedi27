@@ -8,9 +8,10 @@
 </div>
 
 ### 📊 GitHub Activity
-<div align="center">
-[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshChaturvedi27&theme=react-dark&hide_border=true)](https://github.com/HarshChaturvedi27)
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChaturvedi27&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 <!--
 **HarshChaturvedi27/HarshChaturvedi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
