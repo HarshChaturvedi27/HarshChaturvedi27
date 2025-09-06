@@ -7,6 +7,8 @@
   <img align="center" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="200">
 </div>
 
+---
+
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChaturvedi27&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
@@ -48,6 +50,13 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/haras_eu/)
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
+  
+  <h3>💡 Go with the flow 💡</h3>
+</div>
+
 <!--
 **HarshChaturvedi27/HarshChaturvedi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
