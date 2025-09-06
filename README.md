@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Chaturvedi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header"/>
+</div>
 
 <!--
 **HarshChaturvedi27/HarshChaturvedi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
