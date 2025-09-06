@@ -7,6 +7,11 @@
   <img align="center" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="200">
 </div>
 
+### 📊 GitHub Activity
+<div align="center">
+[![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshChaturvedi27&theme=react-dark&hide_border=true)](https://github.com/HarshChaturvedi27)
+</div>
+
 <!--
 **HarshChaturvedi27/HarshChaturvedi27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
