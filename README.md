@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Chaturvedi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header"/>
 </div>
 
-<div>
+<div align="center">
   <img align="center" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="200">
 </div>
 
