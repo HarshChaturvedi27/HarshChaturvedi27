@@ -10,10 +10,12 @@
 ---
 
 <!-- snake gif -->
-<center>
-    <img align="center" alt="snek" src="https://github.com/HarshChaturvedi27/HarshChaturvedi27/blob/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChaturvedi27&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
-</center>
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/HarshChaturvedi27/HarshChaturvedi27/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 <!-- /snake gif -->
 
 ---
