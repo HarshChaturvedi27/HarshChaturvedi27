@@ -3,6 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harsh%20Chaturvedi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="Header"/>
 </div>
 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+Full+Stack+Developer+⚡;Crafting+Scalable+Web+Apps+✨;MERN+Stack+%7C+Cloud+Explorer+☁️" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 🌟 About Me  
+- 🎓 B.Tech CSE Student  
+- 💻 Passionate **MERN Stack Developer**  
+- 🤝 Love collaborating and solving real-world problems  
+
+---
+
 <!--
 <div align="center">
   <img align="center" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="200">
