@@ -25,8 +25,6 @@
 </div>
 -->
 
----
-
 <!-- snake gif -->
 ### 🐍 Contribution Snake
 
